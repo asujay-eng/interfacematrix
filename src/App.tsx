@@ -316,7 +316,7 @@ export default function App() {
       {/* Top Header Row */}
       <header className="flex justify-between items-center border-b border-slate-800 pb-4">
         <div>
-          <h1 className="text-xl font-bold tracking-tight text-white">Etihad HSR | Interactive Matrix Panel</h1>
+          <h1 className="text-xl font-bold tracking-tight text-white">Interface Matrix Panel</h1>
           <p className="text-xs text-emerald-400 flex items-center gap-1.5 mt-0.5">
             <span className="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
             Full Name Dropdown Configuration Online
